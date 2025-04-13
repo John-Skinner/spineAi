@@ -1,9 +1,9 @@
 # spineAi
-on linux, may need to install a package
+On linux, may need to install a package.
 ```
 sudo apt install python3-venv
 ```
-Then follow the following steps to start the server
+Perform the following steps to start the server.
 ```
 cd src
 ./pipInstalls.sh
